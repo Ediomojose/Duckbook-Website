@@ -1,11 +1,11 @@
 import './App.css'
-import BrandLogo from './components/BrandLogo'
+import Nav from './components/Nav'
 
 function App() {
 
   return (
     <>
-    <BrandLogo/>
+    <Nav/>
     </>
   )
 }
