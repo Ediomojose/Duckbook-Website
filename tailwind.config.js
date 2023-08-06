@@ -17,6 +17,9 @@ export default {
         avenir: ["Avenir"],
         dmMono: ["DM Mono"],
       },
+      padding:{
+        "500px": "500px",
+      },
     },
   },
   plugins: [],
