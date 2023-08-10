@@ -12,7 +12,7 @@ const BrandTrustSection = () => {
         <p className="font-avenir text-natural-black text-lg md:text-2xl">
           We’re not even out yet, but they trust us...
         </p>
-        <div className="flex flex-col flex-wraps items-center justify-center gap-6  md:flex-row ">
+        <div className="grid grid-cols-2 items-center justify-center gap-6  md:grid-cols-5  ">
           <img src={GoogleLogo} alt="Google logo" />
           <img src={PaystackLogo} alt="Paystack logo" />
           <img src={PandascrowLogo} alt="Panda Scrow logo" />
