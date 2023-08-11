@@ -17,7 +17,7 @@ const BrandTrustSection = () => {
           <img src={PaystackLogo} alt="Paystack logo" />
           <img src={PandascrowLogo} alt="Panda Scrow logo" />
           <img src={FlutterwaveLogo} alt="Flutterwave logo" />
-          <img src={MicrosoftLogo} alt="Microsoft logo" className="col-start-1 col-end-2"/>
+          <img src={MicrosoftLogo} alt="Microsoft logo" />
         </div>
       </div>
     </>

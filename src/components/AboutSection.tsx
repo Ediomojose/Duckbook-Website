@@ -9,7 +9,7 @@ const AboutSection = () => {
         <h2 className="font-silk text-natural-green text-3xl text-center leading-10 md:text-5xl md:mx-40 lg:text-6xl lg:mx-96 2xl:text-8xl ">
           Everything you need Nothing you don’t
         </h2>
-        <div className="font-dmMono  bg-natural-white rounded-full my-16  grid grid-cols-5 gap-4 justify-center items-center mx-auto text-sm">
+        <div className="font-dmMono  bg-natural-white rounded-full my-16  grid grid-cols-5 gap-1 justify-center items-start mx-auto text-xs md:items-center md:gap-4 md:text-sm">
           <span className=" flex justify-center items-center py-4 px-10 bg-natural-green rounded-full text-natural-grey">
             Invoicing
           </span>
