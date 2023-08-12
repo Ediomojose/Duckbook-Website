@@ -5,19 +5,23 @@
 @font-face {
     font-family: "Modak";
     src: url("/fonts/modak-regular-webfont.woff2"),
+    url("/fonts/modak-regular-webfont.woff");
   }
   
   @font-face {
     font-family: "Silk Serif";
     src: url("/fonts/silk_serif_regular-webfont.woff2"),
+    url("/fonts/silk_serif_regular-webfont.woff");
   }
   
   @font-face {
     font-family: "Avenir";
     src: url("/fonts/avenirltstd-roman-webfont.woff2"),
+    url("/fonts/avenirltstd-roman-webfont.woff");
   }
   
   @font-face {
     font-family: "DM Mono";
     src: url("/fonts/dmmono-regular-webfont.woff2"),
+    url("/fonts/dmmono-regular-webfont.woff");
   }
