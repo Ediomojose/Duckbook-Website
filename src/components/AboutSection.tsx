@@ -26,7 +26,7 @@ const AboutSection = () => {
             Advisor
           </span>
         </div>
-        <div className="grid grid-cols-1 gap-4 items-center justify-center md:grid-cols-2">
+        <div className="grid grid-cols-1 gap-4 items-center justify-center md:grid-cols-2 md:px-8 lg:px-16">
           <div className="flex flex-col items-start gap-4">
             <h3 className="text-natural-green font-silk font-bold text-3xl">All-in-one accounting platform built for startups</h3>
             <p className="font-avenir text-md">
