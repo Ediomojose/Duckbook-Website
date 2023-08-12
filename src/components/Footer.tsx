@@ -1,5 +1,5 @@
 import Button from "./Button";
-import BrandLogo from "./BrandLogo";
+import BrandLogoFooter from "./BrandLogoFooter";
 
 const Footer = () => {
   return (
@@ -18,7 +18,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="flex justify-between items-start md:px-10">
-            <BrandLogo />
+            <BrandLogoFooter />
             <ul className="font-avenir">
               <li className="text-natural-grey text-2xl">Company</li>
               <li>

@@ -11,12 +11,12 @@ const BrandTrustSection = () => {
         <p className="font-avenir text-natural-black text-lg md:text-2xl">
           We’re not even out yet, but they trust us...
         </p>
-        <div className="grid grid-cols-2 items-center justify-center gap-6  md:grid-cols-5  ">
+        <div className="grid grid-cols-2 items-center justify-center gap-6 md:grid-cols-5  ">
           <img src={GoogleLogo} alt="Google logo" className="mix-blend-luminosity"/>
           <img src={PaystackLogo} alt="Paystack logo"className="mix-blend-luminosity"/>
           <img src={PandascrowLogo} alt="Panda Scrow logo" className="mix-blend-luminosity"/>
           <img src={FlutterwaveLogo} alt="Flutterwave logo" className="mix-blend-luminosity"/>
-          <img src={MicrosoftLogo} alt="Microsoft logo" className="mix-blend-luminosity"/>
+          <img src={MicrosoftLogo} alt="Microsoft logo" className="mix-blend-luminosity col-span-2  md:"/>
         </div>
       </div>
     </>
