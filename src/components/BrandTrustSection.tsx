@@ -1,4 +1,3 @@
-import React from "react";
 import GoogleLogo from "/public/images/Google.png";
 import PaystackLogo from "/public/images/Paystack.png";
 import PandascrowLogo from "/public/images/Panda Scrow.png";

@@ -1,4 +1,3 @@
-import React from "react";
 import CoverImage from "/public/images/Cover.png";
 import Button from "./Button";
 

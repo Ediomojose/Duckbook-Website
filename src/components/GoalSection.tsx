@@ -1,4 +1,3 @@
-import React from "react";
 import Avatar1 from "/public/images/Ellipse 1.png";
 import Avatar2 from "/public/images/Ellipse 2.png";
 import Avatar3 from "/public/images/Ellipse 3.png";
