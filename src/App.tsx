@@ -1,4 +1,3 @@
-import './App.css'
 import AboutSection from './components/AboutSection'
 import BrandTrustSection from './components/BrandTrustSection'
 import Footer from './components/Footer'
